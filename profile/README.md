@@ -1,5 +1,4 @@
-## Hi there 👋 
-### Welcome to Neurolect
+## Hi there 👋 Welcome to Neurolect
 
 Neurolect is an upcoming AI organization! dedicated to utilizing technology, 
 specifically Artificial Intelligence (AI), to enhance and assist in the field of education.
