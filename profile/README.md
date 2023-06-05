@@ -24,5 +24,5 @@ Email: leroyroentgen@gmail.com
 ```
 
 
-by - Kume Gakah,
+by - Joseph K. Gakah,
 
