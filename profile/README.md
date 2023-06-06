@@ -9,6 +9,7 @@ Here are some of the exciting projects we are currently working on:
 - **AudLabs** - Augmented Reality Science Labs, 
 - **AudChat** - Virtual learning assistant that uses AI chatbot technology,
 - **AudTube** - Youtube for learning.
+- **EssAi** - Ai Essay Marking App.
 
 
 **Get Involved** - We welcome contributions from individuals passionate about the intersection of technology and education. 
