@@ -1,13 +1,14 @@
 ## Hi there 👋 Welcome to Neurolect
 
-Neurolect is an upcoming AI organization! dedicated to utilizing technology, 
-specifically Artificial Intelligence (AI), to enhance and assist in the field of education.
-We believe that the with AI, we can revolutionize the way we learn and teach. We aim to 
-Develop Innovative AI Solutions, Promote Accessibility, Facilitate Personalized Learning, Support Educators, Foster Collaborative Research.
+Neurolect is an upcoming Edutech organization! dedicated to utilizing technology, 
+specifically Artificial Intelligence (AI) and Extended Reality(AR/VR), to enhance and assist in the field of education.
+We believe that with AI and XR, we can revolutionize the way we learn and teach. We aim to 
+Develop Innovative AI Solutions, Promote Accessibility, Facilitate Personalized Learning, Support Educators, and Foster Collaborative Research.
 Here are some of the exciting projects we are currently working on: 
 - **AudRead** - Intelligent Tutoring System (ITS), 
 - **AudLabs** - Augmented Reality Science Labs, 
-- **AudChat** - Virtual learning assistant that uses AI chatbot technology,
+- **AudAssisstant** - Virtual learning assistant that uses AI chatbot technology,
+- **AudBubble** - Chat app enabling students to benchmark with proffessionals,
 - **AudTube** - Youtube for learning.
 - **EssAi** - Ai Essay Marking System - https://esssai.vercel.app.
 
