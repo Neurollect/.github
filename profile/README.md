@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to Neurolect
+## Hi there 👋 Welcome to Neurollect
 
-Neurolect is an upcoming Edutech organization! dedicated to utilizing technology, 
+Neurollect is an upcoming organization! dedicated to utilizing technology, 
 specifically Artificial Intelligence (AI) and Extended Reality(AR/VR), to enhance and assist in the field of education.
 With AI and XR, we can revolutionize the way we learn and teach. We aim to 
 Develop Innovative AI Solutions, Promote Accessibility, Facilitate Personalized Learning, Support Educators, and Foster Collaborative Research.
