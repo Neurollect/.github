@@ -12,19 +12,6 @@ Here are some of the exciting projects we are currently working on:
 - **AudTube** - Youtube for learning.
 - **EssAi** - Ai Essay Marking System - https://esssai.vercel.app.
 
-
-**Get Involved** - We welcome contributions from individuals passionate about the intersection of technology and education. 
-Our team will look over your contribution, provide feedback, and then merge it if it's appropriate.
-
-
-Learn More - https://docs.google.com/document/d/1eENzdftfnO564ZQnZZUfWc3Rp2ZTuKpilngQGk7TLR8/edit?usp=sharing
-
-```
-All projects developed by the organization are open source and released under the [MIT License](LICENSE).
-Feel free to connect with us, ask questions, and stay updated on our latest initiatives and advancements. 
-Email: leroyroentgen@gmail.com
-```
-
-
 by - Joseph Gakah,
-
+Visit https://neurollect.afrca
+to learn more
